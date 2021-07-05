@@ -29,10 +29,49 @@ h1{
     padding: 30px;
     color: white;
     border-radius: 60px;
-   font-size: 18px;
+
 }
 
 .first-photo{
     padding-top: 50px;
     padding-right: 50px;
+}
+
+
+     /* Second Section Start Here */
+
+.section-two{
+   margin-top: 120px;
+    margin-bottom: 100px;
+}
+
+#background-picture{
+    background-image: url(img/7.png);
+}
+
+.second-photo{
+    width: 50%;
+    margin-left: 5%;
+}
+
+.second-text{
+    margin-right: 50px;
+    width: 50%;
+}
+
+.second-text p{
+    margin-right: 200px;
+    margin-bottom: 50px;
+}
+
+
+    /* Third Section Start Here */
+
+.third-section{
+    text-align: center;
+}
+
+.third-section p{
+    padding-left: 380px;
+    width: 50%;
 }
