@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 .section-one{
     display: flex;
@@ -87,4 +88,21 @@ h1{
  
 .recipie-one img{
     width: 100%;
+}
+
+
+    /* Footer Area */
+
+footer{
+    text-align: center;
+    background-color: #0A0D16;
+    height: 250px;
+}
+
+footer h1{
+        padding-top: 50px;
+}
+
+footer p{
+    color: white;
 }
