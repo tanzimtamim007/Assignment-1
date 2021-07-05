@@ -1,0 +1,38 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.section-one{
+    display: flex;
+}
+
+span{
+    color: orange;
+}
+
+h1{
+    font-size: 50px;
+    color: grey;
+}
+
+.text{
+    padding: 150px 0px 0px 90px;
+}
+
+.text p{
+    color: grey;
+    margin-bottom: 75px;
+}
+
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 30px;
+    color: white;
+    border-radius: 60px;
+   font-size: 18px;
+}
+
+.first-photo{
+    padding-top: 50px;
+    padding-right: 50px;
+}
