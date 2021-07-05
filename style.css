@@ -72,6 +72,19 @@ h1{
 }
 
 .third-section p{
-    padding-left: 380px;
+    margin: 0 auto;
     width: 50%;
+}
+
+    /* Fourth Section Start Here */
+
+.recipie-one{
+    width: 30%;
+    margin: 2%;
+    box-shadow: 0px 0px 15px grey;
+    padding: 20px;
+}
+ 
+.recipie-one img{
+    width: 100%;
 }
