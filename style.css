@@ -91,6 +91,35 @@ h1{
 }
 
 
+        /* Bonus Section Start Here */
+
+.food-review{
+        width: 50%;
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 100px;
+}     
+
+.parent-div{
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 200px;
+    font-size: 15px;
+}
+
+.child-div{
+    margin-left: 2%;
+    padding: 0px;
+    padding-left: 10px;
+    box-shadow: 0px 0px 25px grey;
+    border-left: 4px solid;
+    border-image: linear-gradient(red,blue);
+    border-image-slice: 1;
+    margin: 0 auto;
+    width: 30%;
+}
+
+
     /* Fifth Section Start Here */
 
 .social-media{
@@ -99,7 +128,7 @@ h1{
     padding: 20px;
     margin: 0 auto;
     margin-top: 100px;
-    margin-bottom: 100px;
+    margin-bottom: 200px;
    
 }
 
